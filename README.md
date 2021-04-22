@@ -1,3 +1,3 @@
 # Demo github source code signing
 
-This is another sample test
+Well a branch protection rule test is being run.

@@ -1,3 +1,3 @@
 # Demo github source code signing
 
-Well a branch protection rule test is being run. Omega 1
+Well a branch protection rule test is being run. Non GPG Signing
